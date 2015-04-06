@@ -9,4 +9,4 @@ Same with the case for ThemeManager. BG colors for views, text color for labels 
 
 As for the ViewManager goes, it helps you to to load appropraite static text in each form. Like form captions, label captions etc. Next logical step on this will be to handle validations dynamically and load/associate model objects on the fly
 
-Setting up OmniBaG view for a custom implementation can sometimes be an ardent task. Check my implementation in OmniBGView directory and use it where ever needed
+Setting up OmniBG view for a custom implementation can sometimes be an ardent task. Check my implementation in OmniBGView directory and use it where ever needed
