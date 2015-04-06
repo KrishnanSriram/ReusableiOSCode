@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>viewBackgroundColor</key>
+	<dict>
+		<key>Red</key>
+		<integer>122</integer>
+		<key>Green</key>
+		<integer>187</integer>
+		<key>Blue</key>
+		<integer>191</integer>
+	</dict>
+	<key>header1TextColor</key>
+	<dict>
+		<key>Red</key>
+		<integer>255</integer>
+		<key>Green</key>
+		<integer>245</integer>
+		<key>Blue</key>
+		<integer>255</integer>
+	</dict>
+	<key>subHeader1TextColor</key>
+	<dict>
+		<key>Red</key>
+		<integer>255</integer>
+		<key>Green</key>
+		<integer>245</integer>
+		<key>Blue</key>
+		<integer>255</integer>
+	</dict>
+	<key>footer1TextColor</key>
+	<dict>
+		<key>Red</key>
+		<integer>255</integer>
+		<key>Green</key>
+		<integer>245</integer>
+		<key>Blue</key>
+		<integer>255</integer>
+	</dict>
+	<key>tableCellTextLabel1</key>
+	<dict>
+		<key>Red</key>
+		<integer>255</integer>
+		<key>Green</key>
+		<integer>245</integer>
+		<key>Blue</key>
+		<integer>255</integer>
+	</dict>
+</dict>
+</plist>

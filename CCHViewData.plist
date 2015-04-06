@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>welcomeScreenFormFields</key>
+	<dict>
+		<key>welcomeHeader</key>
+		<string>Welcome</string>
+		<key>welcomeSubHeader</key>
+		<string>SAFECHX secure patient check in</string>
+		<key>welcomeFooter</key>
+		<string>Touch anywhere to begin</string>
+	</dict>
+	<key>reasonsScreenFormFields</key>
+	<dict>
+		<key>reasonHeader</key>
+		<string>Select the reason for your visit today</string>
+		<key>reasons</key>
+		<array>
+			<string>Emergency</string>
+			<string>Scheduled out-patient</string>
+			<string>Unscheduled out-patient</string>
+			<string>Labs</string>
+			<string>X-ray/MRI</string>
+			<string>Pre-Registration</string>
+		</array>
+	</dict>
+	<key>firstNameScreenFormFields</key>
+	<dict>
+		<key>firstNameScreenHeader</key>
+		<string>Enter your First Name</string>
+	</dict>
+	<key>lastNameScreenFormFields</key>
+	<dict>
+		<key>lastNameScreenHeader</key>
+		<string>Enter your Last Name</string>
+	</dict>
+	<key>phoneNumberScreenFormFields</key>
+	<dict>
+		<key>phoneNumberScreenHeader</key>
+		<string>Enter your phone number</string>
+	</dict>
+	<key>emailAddressScreenFormFields</key>
+	<dict>
+		<key>phoneNumberScreenHeader</key>
+		<string>Enter your Email ID</string>
+	</dict>
+	<key>ssnScreenFormFields</key>
+	<dict>
+		<key>ssnNumberScreenHeader</key>
+		<string>Enter your SSN Number</string>
+	</dict>
+	<key>dobScreenFormFields</key>
+	<dict>
+		<key>dobScreenHeader</key>
+		<string>Enter your Date of birth</string>
+	</dict>
+	<key>verificationScreenFormFields</key>
+	<dict>
+		<key>verificationScreenHeader</key>
+		<string>Is this information correct?</string>
+		<key>verificationScreenFields</key>
+		<dict>
+			<key>fullName</key>
+			<string>Full Name</string>
+			<key>phoneNumber</key>
+			<string>Phone Number</string>
+			<key>dob</key>
+			<string>Date of Birth</string>
+			<key>ssn</key>
+			<string>Social Security Number</string>
+			<key>emailID</key>
+			<string>Email Address</string>
+		</dict>
+	</dict>
+	<key>confirmationScreenFormFields</key>
+	<dict>
+		<key>confirmationScreenHeader</key>
+		<string>You have been successfully checked in!</string>
+	</dict>
+</dict>
+</plist>
