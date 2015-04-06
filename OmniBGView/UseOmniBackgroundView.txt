@@ -1,0 +1,2 @@
+If you are using storyboards or Xibs to create view controllers. Set the View class in visual file to OmniBackgroundView
+If you use the programatic way, check how SecondViewController uses OmniBackgroundView
