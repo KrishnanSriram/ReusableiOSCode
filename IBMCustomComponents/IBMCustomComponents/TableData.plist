@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Approach</key>
+	<dict>
+		<key>Multi-View</key>
+		<string>We create Parent-Child views. With the parent view displays the name of the files. Tapping on the file will show a detailed view which will in turn present a choice to open the file as well as all other choices for the file</string>
+		<key>Actions</key>
+		<string>Present a simple action control with choices. Action is based on the choices user pick. Actions will be presented only if the user taps on the details chevron in action view. Genral tap on the cell will result in opening the file</string>
+	</dict>
+	<key>UIViewController</key>
+	<array>
+		<string>Configuring a View Controller Using Nib Files</string>
+		<string>Interacting with Storyboards and Segues</string>
+		<string>Managing the View</string>
+		<string>Presenting View Controllers</string>
+		<string>Supporting Custom Transitions and Presentations</string>
+		<string>Responding to View Events</string>
+		<string>Configuring the View’s Layout Behavior</string>
+		<string>Testing for Specific Kinds of View Transitions</string>
+		<string>Configuring the View Rotation Settings</string>
+		<string>Adapting to Environment Changes</string>
+		<string>Managing Child View Controllers in a Custom Container</string>
+		<string>Responding to Containment Events</string>
+		<string>Getting Other Related View Controllers</string>
+		<string>Handling Memory Warnings</string>
+		<string>Managing State Restoration</string>
+		<string>Supporting App Extensions</string>
+		<string>Working With 3D Touch Previews and Preview Quick Actions</string>
+		<string>Configuring a Navigation Interface</string>
+		<string>Configuring Tab Bar Items</string>
+		<string>Adding Editing Behaviors to Your View Controller</string>
+		<string>Accessing the Available Key Commands</string>
+		<string>Deprecated Methods</string>
+	</array>
+</dict>
+</plist>
