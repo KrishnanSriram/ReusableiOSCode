@@ -55,7 +55,7 @@ class CustomsCellViewController: UIViewController {
         case .CellStyleViewControllerDropBox:
             tableViewController = DropboxStyleController()
         case .CellStyleViewControllerOneDrive:
-            tableViewController = OneDriveViewController()
+            tableViewController = OneDriveViewController(style:.Grouped)
         }
         
         return tableViewController
